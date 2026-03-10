@@ -1,5 +1,9 @@
 # InferenceFlow API
 
+## System Architecture
+![System Architecture](./inference-flow-api/architecture.jpeg)
+
+
 A high-performance ML inference gateway built with FastAPI, designed for low-latency and high reliability.
 
 ## Key Features
